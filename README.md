@@ -26,14 +26,14 @@
  git clone https://github.com/SiddhantOffl/AI-Linux.git
 ```
 
-- Change to cloned directory and run `iLocator.sh` -
+- Change to cloned directory and run `AI-Linux.sh` -
 ```
  cd AI-Linux
  chmod +x AI-Linux.sh
  bash AI-Linux.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `AI-Linux.sh is installed.
+- On first launch, It'll install the dependencies and that's it. `AI-Linux.sh` is installed.
 
 
 
